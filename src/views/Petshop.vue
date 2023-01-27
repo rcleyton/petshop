@@ -1,6 +1,8 @@
 <template>
   <div>
-    <h1>Página Principal</h1>
+    <h1>
+      Bem vindo ao petshop
+    </h1>
   </div>
 </template>
 
